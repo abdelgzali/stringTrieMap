@@ -9,3 +9,5 @@ Experimenting with a custom trie implementation using string chaining and HashMa
     - Add second char appended string to a HashMap with the string as the key, and 1 as the value
     - If the string already exists update occurance value
 3. Use query string as key for Map to get the value (occurences).
+
+**Time Complexity**: O(n)
